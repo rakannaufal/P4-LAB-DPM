@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { View, Text, TouchableOpacity } from "react-native";
-import { styles } from "./styles/styles";
+import { styles } from "./styles/style";
 import ScoreBoard from "./components/ScoreBoard";
 import ResetButton from "./components/ResetButton";
 import WinnerMessage from "./components/WinnerMessage";
